@@ -1,0 +1,70 @@
+,Path,distancia,unidade_tempo,tempo,horas_cst1,horas_cst2,horas_cst3,horas_cst4,horas_cst5,area,detalhe,perspectiva_recompra,oportunidade,urgencia,tipo_empresa,risco,preço,Ano
+0,.\Não vendidas\Almofada - 5S\Planilha de Precificação ALMOFADA.xlsx,26.0,Semanas,8.0,15.0,,,,,5S,Controle,Baixo,Médio,Baixo,Indústria,Baixo,2550.0,2014
+1,.\Não vendidas\Batatosa - MP\Precificação 2014.1 Batatosa.xlsx,20.0,Semanas,8.0,10.0,10.0,,,,MP,Estado Atual,Baixo,Alto,Baixo,Indústria,Médio,3970.0,2014
+2,.\Não vendidas\Brasa II - MP\PrecificaçãoBrasa.xlsx,40.0,Semanas,12.0,20.0,20.0,5.0,,,MP,Estado Atual,Médio,Médio,Baixo,Indústria,Médio,7630.0,2014
+3,.\Não vendidas\Compras III - MP\Planilha de Precificacao 2013.2 - beiramar manutençã.xlsx,5.3,Semanas,18.0,20.0,20.0,,,,MP,Estado Atual,Alto,Alto,Baixo,Comércio/Serviço,Alto,11360.0,2014
+4,.\Não vendidas\Corte II - Automatisa\Precificação - Corte II (Acrila e Vista).xlsx,14.1,Semanas,16.0,5.0,15.0,15.0,,,PCP,Controle,Médio,Alto,Baixo,Indústria,Médio,11170.0,2014
+5,.\Não vendidas\Corte II - Automatisa\Precificação - Corte II (Acrila).xlsx,14.1,Semanas,11.0,5.0,15.0,15.0,,,PCP,Controle,Médio,Alto,Baixo,Indústria,Médio,8400.0,2014
+6,.\Não vendidas\Egito - MP\Precificação Egito.xlsx,19.1,Semanas,7.0,20.0,20.0,5.0,,,MP,Estado Atual,Médio,Médio,Baixo,Indústria,Baixo,4500.0,2014
+7,.\Não vendidas\Elétron - Lean - Kanban\Planilha de Precificacao 2013.2.xlsx,17.0,Semanas,11.0,20.0,20.0,5.0,,,PCP,Estado Futuro,Baixo,Médio,Baixo,Indústria,Médio,7900.0,2014
+8,.\Não vendidas\Futuro - SAG\Precificação - Futuro (validada).xlsx,9.0,Semanas,8.0,15.0,20.0,,,,SAG,Adaptado,Médio,Alto,Baixo,Indústria,Baixo,4740.0,2014
+9,.\Não vendidas\Oleosa - MP\Planilha de Precificação 2014.1.xlsx,10.0,Semanas,5.0,15.0,,,,,MP,Estado Atual,Baixo,Alto,Médio,Comércio/Serviço,Baixo,1950.0,2014
+10,.\Não vendidas\Pasta III - MP\Planilha de Precificacao 2013 oficial.xlsx,15.7,Semanas,8.0,20.0,20.0,20.0,20.0,,MP,Estado Atual,Alto,Alto,Baixo,Indústria,Baixo,8830.0,2014
+11,.\Não vendidas\Piscina II - 5S\Planilha de Precificação 2014.1.xlsx,20.0,Semanas,12.0,15.0,15.0,15.0,,,5S,Controle,Médio,Baixo,Baixo,Indústria,Alto,6510.0,2014
+12,.\Não vendidas\Vidrosa - Melhoria de Processos\precificaçao vidrosa.xlsx,24.0,Semanas,11.0,20.0,20.0,,,,5S,Controle,Alto,Médio,Baixo,Indústria,Médio,6160.0,2014
+13,.\Não vendidas\Bia - 5S\Vendas\Cópia de Planilha de Precificação 2014.1 destri 20h.xlsx,19.8,Semanas,9.0,20.0,10.0,,,,5S,Estado Futuro,Médio,Alto,Baixo,Indústria,Médio,5310.0,2014
+14,.\Não vendidas\Saco - Implac\Vendas\Planilha de Precificacao 2013.2.xlsx,35.0,Semanas,17.0,20.0,20.0,,,,SAG,Adaptado,Médio,Alto,Baixo,Indústria,Alto,16660.0,2014
+15,.\Vendidas\Algodão - MFV\Vendas\Planilha de Precificacao Proposta 2.xlsx,20.0,Semanas,7.2,5.0,20.0,20.0,,,MFV,Adaptado,Médio,Alto,Baixo,Indústria,Alto,5410.0,2014
+16,.\Vendidas\Básica - Gestão de Estoque_\Vendas\precificação maisqbásica.xlsx,6.4,Semanas,6.5,15.0,10.0,10.0,,,Logística,Estado Futuro,Médio,Alto,Baixo,Comércio/Serviço,Baixo,4100.0,2014
+17,.\Vendidas\Ceral II - SAG\Vendas\Planilha de Precificacao - Ceral.xlsx,14.0,Semanas,8.0,20.0,,,,,SAG,Normal,Médio,Médio,Baixo,Indústria,Baixo,3390.0,2014
+18,.\Vendidas\Compras IV - MP\Vendas\Precificacao - beiramar manutenção Ares.xlsx,5.3,Semanas,8.0,20.0,20.0,,,,MP,Estado Atual,Alto,Alto,Baixo,Comércio/Serviço,Alto,5310.0,2014
+19,.\Vendidas\Construção VI - MP\Vendas\Precificação Cassol.xlsx,12.0,Semanas,8.0,20.0,20.0,,,,MP,Estado Atual,Alto,Médio,Médio,Indústria,Alto,4820.0,2014
+20,.\Vendidas\Coulomb - Layout\Vendas\Planilha de Precificacao Coulomb padovani.xlsx,27.0,Semanas,9.0,20.0,20.0,20.0,,,Layout,Estado Futuro,Médio,Muito Alto,Médio,Indústria,Médio,9200.0,2014
+21,.\Vendidas\Espaço II - 5S\Vendas\Planilha de Precificação 2014.1.xlsx,17.5,Semanas,10.0,20.0,20.0,,,,5S,Estado Futuro,Médio,Médio,Baixo,Indústria,Médio,6020.0,2014
+22,.\Vendidas\Nicolóculos - PE\Vendas\Planilha de Precificação 2014.1.xlsx,4.7,Semanas,11.0,15.0,,,,,PE,Completo,Baixo,Médio,Baixo,Comércio/Serviço,Baixo,5140.0,2014
+23,.\Vendidas\Persiana - Gestão de Estoques - 5S\Vendas\Planilha de Precificacao 2013.2 Persiana.xlsx,20.0,Semanas,11.0,15.0,15.0,15.0,,,Logística,Estado Futuro,Alto,Médio,Baixo,Indústria,Médio,7840.0,2014
+24,.\Vendidas\Turismo - MP\Vendas\Planilha de Precificacao 2013.2.xlsx,7.7,Semanas,14.0,20.0,20.0,,,,MP,Estado Atual,Baixo,Médio,Baixo,Comércio/Serviço,Baixo,9000.0,2014
+25,.\Vendidas\Água I - Melhoramento de Processos\Vendas\Planilha de Precificacao 2013(1).xlsx,23.0,Semanas,12.0,20.0,15.0,,,,MFV,Estado Futuro,Alto,Médio,Baixo,Indústria,Médio,6820.0,2014
+26,.\Vendidas\Água III - Layout\Vendas\Precificação Agua Benta III.xlsx,34.0,Semanas,11.0,15.0,10.0,20.0,,,Layout,Controle,Alto,Muito Alto,Baixo,Indústria,Alto,11360.0,2014
+0,.\Não vendidos\Bistrô - PE\Precificação Bistrot (pe + analise viabilidade).xlsx,5.0,Semanas,12.0,10.0,20.0,,,,PE,Controle,Médio,Alto,Alto,Comércio/Serviço,Alto,14310.0,2015
+1,.\Não vendidos\Boat III - MP e Assessoria 5s\Precificação-BOAT-3.xlsx,25.0,Semanas,6.0,20.0,20.0,5.0,,,MP,Controle,Alto,Alto,Médio,Indústria,Médio,5000.0,2015
+2,.\Não vendidos\CAD II - Ass MP\Precificação CAD.xlsx,12.0,Semanas,14.0,15.0,15.0,,,,MP,Estado Atual,Baixo,Alto,Baixo,Comércio/Serviço,Alto,9030.0,2015
+3,.\Não vendidos\Office - MP\Precificação Office.xlsx,8.1,Semanas,12.0,20.0,20.0,,,,MP,Estado Atual,Baixo,Alto,Baixo,Comércio/Serviço,Médio,7820.0,2015
+4,.\Não vendidos\Spaço 4 - Melhoria de processo + MP\Precificação Spaço 2016.xlsx,19.0,Semanas,22.0,20.0,20.0,,,,MP,Estado Futuro,Alto,Baixo,Baixo,Fora do Portifólio,Médio,13780.0,2015
+5,.\Não vendidos\Spaço 4 - Melhoria de processo + MP\Precificação Spaço.xlsx,19.0,Semanas,27.0,20.0,20.0,,,,MP,Estado Futuro,Alto,Baixo,Baixo,Fora do Portifólio,Médio,19940.0,2015
+6,.\Não vendidos\Turismo II - PE\Vendas\Precificação Turismo.xlsx,8.0,Semanas,16.0,20.0,,,,,PE,Completo,Baixo,Médio,Baixo,Comércio/Serviço,Médio,8940.0,2015
+7,.\Vendidos\Maçã - Planejamento Industrial\Vendas\Precificação Maçã(2).xlsx,8.0,Semanas,8.0,10.0,20.0,10.0,,,PCP,Planejamento,Médio,Baixo,Médio,Indústria,Médio,5690.0,2015
+0,.\Não vendidos\Carona - MP\Precificação Carona.xlsx,10.0,Por semanas,8.0,10.0,,,,,MP,Estado Atual,Baixo,Médio,Baixo,Comércio/Serviço,Baixo,2580.0,2015
+1,.\Não vendidos\Esquadria II - PE\Precificação PRONTA LOHN.xlsx,10.0,Por semanas,13.0,20.0,20.0,,,,PE,Completo,Médio,Baixo,Baixo,Indústria,Alto,10900.0,2015
+2,.\Não vendidos\Project - Gerenciamento de Projetos\Precificação project.xlsx,10.0,Por semanas,33.0,10.0,,,,,Escopo Aberto,Completo,Baixo,Médio,Médio,Comércio/Serviço,Alto,12840.0,2015
+3,.\Não vendidos\Fica - MP\Vendas\precificação acif.xlsx,10.0,Por semanas,10.0,15.0,,,,,MP,Melhoria de Processo,Alto,Médio,Alto,Comércio/Serviço,Alto,5530.0,2015
+4,.\Não vendidos\Plástico III - Lean Thinking\Vendas\10. Precificação NOVA plasc.xlsx,10.0,Por semanas,9.0,20.0,23.75,,,,MFV,Completo,Alto,Muito Alto,Médio,Indústria,Médio,8460.0,2015
+1,.\Não Vendidas\Boreal - Plano de MKT\Precificação_BOREAL.xlsx,10.0,Por semanas,16.0,5.0,10.0,10.0,,,PE,Planejamento,Baixo,Médio,Médio,Indústria,Médio,9220.0,2016
+2,.\Não Vendidas\Cereal III - Logística\Precificação Cereal III (1.61).xlsx,10.0,Por semanas,10.0,10.0,15.0,,,,Logística,,Baixo,Muito Alto,Médio,Comércio/Serviço,Médio,11600.0,2016
+3,.\Não Vendidas\Chikorita - SAG\Cópia de Precificação vegano.xlsx,10.0,Por semanas,14.0,5.0,5.0,0.0,,,SAG,Planejamento,Alto,Alto,Alto,Comércio/Serviço,Médio,4400.0,2016
+4,.\Não Vendidas\Continente II - PE\Precificação Continente 2 + orientador.xlsx,10.0,Por semanas,12.0,15.0,5.0,15.0,,,PE,,Baixo,Médio,Baixo,Comércio/Serviço,Médio,7360.0,2016
+5,.\Não Vendidas\Desafio Fejesc - Balaclava\Precificação Acompanhamento 16.62.xlsx,10.0,Por semanas,16.0,0.0,10.0,10.0,0.0,,Plano de Marketing,,Baixo,Médio,Médio,Comércio/Serviço,Alto,6840.0,2016
+6,.\Não Vendidas\Encalhada- Layout+5s\precificação encalhada 5s.xlsx,10.0,Por semanas,4.0,15.0,0.0,,,,5S,,Médio,Médio,Baixo,Comércio/Serviço,Baixo,1960.0,2016
+7,.\Não Vendidas\Encalhada- Layout+5s\precificação encalhada layout.xlsx,10.0,Por semanas,1.0,10.0,10.0,,,,Layout,,Muito Alto,Médio,Baixo,Comércio/Serviço,Baixo,560.0,2016
+8,.\Não Vendidas\Estaca\Precificação Estaca (1).xlsx,10.0,Por semanas,14.0,0.0,15.0,15.0,,,PCP,Planejamento,Muito Alto,Alto,Alto,Indústria,Alto,10290.0,2016
+9,.\Não Vendidas\Gráfica II - TRF\Precificação Acompanhamento 1.4 - FAZER DOWNLOAD.xlsx,10.0,Por semanas,7.0,20.0,5.0,,,,TRF,,Médio,Médio,Médio,Comércio/Serviço,Alto,5760.0,2016
+10,.\Não Vendidas\Gênio - Gestão de Estoques\Precificação Acompanhamento 1.4 - FAZER DOWNLOAD.xlsx,10.0,Por semanas,11.0,0.0,15.0,,,,Logística,,Baixo,Médio,Alto,Comércio/Serviço,Médio,42.0,2016
+11,.\Não Vendidas\Gênio - Gestão de Estoques\precificação validada LogicaE.xlsx,10.0,Por semanas,11.0,15.0,10.0,,,,Logística,,Baixo,Médio,Médio,Indústria,Médio,10660.0,2016
+12,.\Não Vendidas\Hurra - Plano de MKT\Precificação hurra duas juntas.xlsx,10.0,Por semanas,20.0,10.0,0.0,5.0,15.0,10.0,Plano de Marketing,,Médio,Médio,Médio,Indústria,Médio,14120.0,2016
+13,.\Não Vendidas\Hurra - Plano de MKT\Precificação hurra uma.xlsx,10.0,Por semanas,14.0,10.0,0.0,5.0,15.0,10.0,Plano de Marketing,,Médio,Médio,Médio,Indústria,Médio,10330.0,2016
+14,.\Não Vendidas\Mais Caliente II - SAG\Precificação Mais Caliente.xlsx,10.0,Por semanas,9.0,20.0,20.0,5.0,,,SAG,,Baixo,Baixo,Baixo,Comércio/Serviço,Baixo,1860.0,2016
+15,.\Não Vendidas\MaxCream - SAG\Precificação MaxCream (1).xlsx,10.0,Por semanas,10.0,0.0,15.0,5.0,,,SAG,,Baixo,Médio,Médio,Comércio/Serviço,Médio,3900.0,2016
+16,.\Não Vendidas\MC - 5S\precificação MC.xlsx,10.0,Por semanas,9.0,15.0,15.0,,,,5S,,Baixo,Baixo,Baixo,Indústria,Baixo,3300.0,2016
+17,.\Não Vendidas\Nicho - PE\Precificação nicho.xlsx,10.0,Por semanas,9.0,0.0,15.0,5.0,,,PE,,Baixo,Alto,Baixo,Comércio/Serviço,Baixo,5050.0,2016
+18,.\Não Vendidas\Sinais - 5S + Layout + Estratégia\Precificação Sinais.xlsx,10.0,Por semanas,15.0,0.0,10.0,15.0,,,5S,,Baixo,Alto,Baixo,Indústria,Muito Alto,6910.0,2016
+19,.\Não Vendidas\Tião - Logística\Precificação Acompanhamento 1.1 - FAZER DOWNLOAD (1)(1).xlsx,10.0,Por semanas,4.0,20.0,10.0,,,,Logística,,Baixo,Médio,Alto,Comércio/Serviço,Médio,6830.0,2016
+20,.\Não Vendidas\Vegano - SAG\Precificação vegano.xlsx,10.0,Por semanas,14.0,5.0,5.0,0.0,,,SAG,Planejamento,Alto,Alto,Alto,Comércio/Serviço,Médio,4400.0,2016
+22,.\Não Vendidas\Versátil - Map. de Proc. + Melhoria\Precificação Versátil.xlsx,10.0,Por semanas,10.0,15.0,15.0,,,,MP,Melhoria de Processo,Baixo,Alto,Baixo,Comércio/Serviço,Médio,5320.0,2016
+23,.\Não Vendidas\Viveiro- SAG\precificação Viveiro.xlsx,10.0,Por semanas,14.0,15.0,15.0,5.0,,,SAG,,Médio,Muito Alto,Médio,Indústria,Médio,7220.0,2016
+24,.\Não Vendidas\Vrum - Melhoria de Processos\Precificacao vrum.xlsx,10.0,Por semanas,8.0,15.0,15.0,15.0,,,MP,Melhoria de Processo,Médio,Alto,Médio,Indústria,Médio,8310.0,2016
+25,.\Vendidas\Açaí - Custos Logísticos\Processo de Venda\Precificação Acompanhamento 1.5 - acai sag(1).xlsx,10.0,Por semanas,7.0,20.0,0.0,,,,SAG,,Muito Alto,Médio,Médio,Indústria,Baixo,3150.0,2016
+26,.\Vendidas\Açaí - Custos Logísticos\Processo de Venda\Precificação Acompanhamento 1.5 - acai sag.xlsx,10.0,Por semanas,7.0,20.0,0.0,,,,SAG,,Muito Alto,Médio,Médio,Indústria,Baixo,3150.0,2016
+27,.\Vendidas\EcoLab - 5S\Venda\Precificação 5s.xlsx,10.0,Por semanas,11.0,15.0,,15.0,,,5S,,Médio,Muito Alto,Baixo,Indústria,Médio,5060.0,2016
+29,.\Vendidas\EcoLab - 5S\Venda\Precificação logistica.xlsx,10.0,Por semanas,9.0,15.0,15.0,,,,Logística,,Baixo,Médio,Alto,Indústria,Muito Alto,16330.0,2016
+30,.\Vendidas\Fermentada - Logística\Venda\Precificação Fermentada.xlsx,10.0,Por semanas,6.0,15.0,,,,,Logística,,Alto,Médio,Baixo,Comércio/Serviço,Médio,2460.0,2016
+31,.\Vendidas\Safari - PCP\Venda\Precificação Safari.xlsx,10.0,Por semanas,10.0,15.0,15.0,,,,PCP,Planejamento,Muito Alto,Médio,Alto,Comércio/Serviço,Médio,7590.0,2016
