@@ -1,0 +1,33 @@
+Exitem 3 "locais" por onde o trabalho passa:
+- Seu PC (local);
+- Stage Area (servidor intermediário);
+- Bitbucket (nuvem online);
+
+Para usar o git, 
+- Instalar: https://git-scm.com/downloads
+- Abrir "Git Bash" (prompt de comando do git);
+
+Setup do git com o Bitcket:
+Seguir checklist https://confluence.atlassian.com/bitbucket/set-up-an-ssh-key-728138079.html
+Obs: Para conseguir o link necessário para criar a chave,
+- Vá no Bitbucket -> Repositório -> Source -> Clone -> SSH -> Copia o código
+
+Comandos usuais,
+cd - Change directory 
+ls - Lista o que tem no diretório
+Git status - verifica a situação do arquivo. 
+Se estiver verde significa que está na nuvem e sincronizado adequadamente.
+Se estier vermelho existe uma diferença entre o que está na nuvem e no local. 
+Para saber mais: https://www.codecademy.com/learn/learn-git (Curso rápido de ~1 h)
+
+Para pegar um código do Bitbucket,
+git status 
+git pull - "puxa" o arquivo da nuvem
+git status
+
+Após edições no arquivo,
+git status
+git add -A  - Adiciona todos os arquivos da pasta para a nuvem
+git status
+git commit -m 'sua mensagem' - Faça um comentário explicando suas edições
+git push - Upa o arquivo da stage area para a nuvem
